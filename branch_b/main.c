@@ -6,7 +6,8 @@ int main()
 {
 	printf("Hello World!");
 
-	printf("\nThis is Branch A!");
+	printf("\nThis is Branch B!");
+	printf("\nThere is some difference");
 	
 	system("pause");
 	return 0;
